@@ -1,5 +1,5 @@
 {
-  "name": "orthanc-tower/orthanc-contracts",
+  "name": "orthanc-tower/contracts",
   "description": "Shared type-safe contracts for Orthanc Tower ecosystem",
   "type": "library",
   "license": "MIT",
